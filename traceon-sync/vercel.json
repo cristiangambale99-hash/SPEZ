@@ -1,0 +1,3 @@
+{
+  "functions": { "api/traceon-sync.js": { "maxDuration": 60 } }
+}
